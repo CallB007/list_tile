@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
               contentPadding: EdgeInsets.symmetric(vertical: 10, horizontal: 8),
               title: Text("Jojo star"),
               subtitle: Text(
-                "Kamu udah makan ?qwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+                "Kamu udah makan ? qwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
                 maxLines: 2,
                 overflow: TextOverflow.ellipsis,
               ),
